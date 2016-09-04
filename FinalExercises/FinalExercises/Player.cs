@@ -11,6 +11,7 @@ namespace FinalExercises
         private
         string name;
         int score;
+        //hello
         bool turn;
         string piece;
 
